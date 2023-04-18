@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Coin
+  - Obstacle
+  - Tile
+  - SpawnPoint
+  - Shield
+  - CoinX2
   layers:
   - Default
   - TransparentFX
